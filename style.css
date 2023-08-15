@@ -1,0 +1,19 @@
+body {
+    background-color:powderblue;
+    color:darkorange;
+}
+#app {
+    background-color:yellow;
+}
+#game {
+    background-color:orange;
+}
+#chatbot {
+    background-color:lime;
+}
+.line {
+    background-color:black;
+    width:100px;
+    height:5px;
+    margin-bottom:20px;
+}
